@@ -1,2 +1,4 @@
 language: cpp
 compiler: g++
+
+script: make -j2
