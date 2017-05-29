@@ -1,6 +1,5 @@
 language: cpp
 compiler: g++
-
 script: 
 -cmake
 -make
