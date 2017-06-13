@@ -11,3 +11,4 @@ script:
 - cmake .
 - make
 - ./mytest
+- make test
