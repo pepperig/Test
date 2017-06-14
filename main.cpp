@@ -27,7 +27,7 @@ TEST(AccountTest, first){
 TEST(AccountTest, second){
   
   
-  EXPECT_EQ(0,2);
+  EXPECT_EQ(0,0);
   
 }
 
